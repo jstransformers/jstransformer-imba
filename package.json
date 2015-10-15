@@ -3,7 +3,7 @@
     "imba": "^0.13.7"
   },
   "name": "jstransformer-imba",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "imba support for JSTransformers.",
   "keywords": [
     "jstransformer"
@@ -17,6 +17,9 @@
   "scripts": {
     "coverage": "test-jstransformer coverage",
     "test": "test-jstransformer"
+  },
+  "engines": {
+    "node": ">=0.10.36"
   },
   "repository": {
     "type": "git",

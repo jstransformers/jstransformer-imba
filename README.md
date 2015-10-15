@@ -14,7 +14,10 @@
 ## API
 
 ```js
-// TODO: Add API documentation.
+var imba = require('jstransformer')(require('jstransformer-imba'))
+
+imba.render('var message = "Hello, {name}!"').body
+//=> 'var message = ("Hello, " + name + "!");
 ```
 
 ## License
