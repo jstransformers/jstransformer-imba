@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # jstransformer-imba
 
 [Imba](https://github.com/somebee/imba) support for [JSTransformers](http://github.com/jstransformers).
