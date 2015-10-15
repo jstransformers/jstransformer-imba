@@ -6,5 +6,5 @@ exports.name = 'imba';
 exports.outputFormat = 'js';
 
 exports.render = function (str, options) {
-  return imba.compile(str, options).toString()
-}
+  return imba.compile(str, options).toString();
+};
