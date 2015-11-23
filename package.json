@@ -3,7 +3,7 @@
     "imba": "^0.14.0"
   },
   "name": "jstransformer-imba",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "imba support for JSTransformers.",
   "keywords": [
     "jstransformer"
