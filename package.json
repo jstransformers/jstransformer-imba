@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "imba": "^0.13.7"
+    "imba": "^0.14.0"
   },
   "name": "jstransformer-imba",
   "version": "0.1.0",
