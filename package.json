@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "imba": "^0.14.0"
+    "imba": "^1.0.0-rc.2"
   },
   "name": "jstransformer-imba",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "description": "imba support for JSTransformers.",
   "keywords": [
     "jstransformer"
