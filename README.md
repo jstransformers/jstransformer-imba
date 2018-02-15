@@ -15,7 +15,7 @@
 ## API
 
 ```js
-var imba = require('jstransformer')(require('jstransformer-imba'));
+var imba = require('jstransformer')(require('jstransformer-imba'))
 
 imba.render('var message = "Hello, {name}!"').body
 //=> 'var message = ("Hello, " + name + "!");
