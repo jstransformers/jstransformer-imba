@@ -1,6 +1,6 @@
 'use strict'
 
-var imba = require('imba/compiler')
+const imba = require('imba/compiler')
 
 exports.name = 'imba'
 exports.outputFormat = 'js'
