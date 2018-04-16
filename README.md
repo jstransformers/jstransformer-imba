@@ -1,7 +1,5 @@
 # jstransformer-imba
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/jstransformers/jstransformer-imba.svg)](https://greenkeeper.io/)
-
 [Imba](https://github.com/somebee/imba) support for [JSTransformers](http://github.com/jstransformers).
 
 [![Build Status](https://img.shields.io/travis/jstransformers/jstransformer-imba/master.svg)](https://travis-ci.org/jstransformers/jstransformer-imba)
